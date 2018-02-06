@@ -18,6 +18,8 @@ export default class Survey extends Component {
   }
 
   handleInitialize = () => {
+
+    
     this.props.initialize('survey', {
       name: 'Little Bobby Tables',
       email: 'bobby@gmail.com',
