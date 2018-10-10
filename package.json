@@ -173,7 +173,7 @@
     "mocha": "2.5.3",
     "node-sass": "3.13.1",
     "phantomjs": "1.9.20",
-    "phantomjs-polyfill": "0.0.1",
+    "phantomjs-polyfill": "0.0.2",
     "react-a11y": "0.2.8",
     "react-addons-test-utils": "0.14.8",
     "react-transform-catch-errors": "1.0.2",
