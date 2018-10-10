@@ -151,7 +151,7 @@
     "bootstrap-sass": "3.3.7",
     "bootstrap-sass-loader": "1.0.10",
     "chai": "3.5.0",
-    "clean-webpack-plugin": "0.1.18",
+    "clean-webpack-plugin": "0.1.19",
     "concurrently": "0.1.1",
     "css-loader": "0.23.1",
     "eslint": "1.10.3",
