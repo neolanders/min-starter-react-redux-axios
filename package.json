@@ -186,7 +186,7 @@
     "sinon": "1.17.7",
     "strip-loader": "0.1.2",
     "style-loader": "0.13.2",
-    "timekeeper": "0.0.5",
+    "timekeeper": "0.1.1",
     "webpack": "1.15.0",
     "webpack-dev-middleware": "1.12.2",
     "webpack-hot-middleware": "2.21.0"
